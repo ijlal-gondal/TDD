@@ -2,9 +2,6 @@
 
 class Streamer {
     constructor() {
-        // this.first = first;
-        // this.last = last;
-
     }
     
     getContent() {
@@ -33,7 +30,7 @@ class Streamer {
     }
    
 }
-let streamer = new Streamer();
- gym = streamer.getTime();
-       console.log(gym);
+// let streamer = new Streamer();
+//  gym = streamer.getContent();
+//        console.log(gym);
 module.exports = Streamer;
